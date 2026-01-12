@@ -28,8 +28,8 @@ This project was developed by a multidisciplinary team of 5 members:
 * **Gabriel Medina**: Programming and Technical Lead.
 * **Loris Cugnet Cointe**: Music Composition, Sound Design, and Visual Arts.
 * **Johanne H. Rakotoson**: Visual Arts.
-* **Project Contributor**: Visual Arts.
-* **Project Contributor**: Visual Arts.
+* **Lili-Anne Bellavance**: Visual Arts.
+* **Marianne Larivière**: Visual Arts.
 
 ---
 *This document ensures that while the code is open for learning and improvement, the creative identity and assets of the artists and musician remain protected from unauthorized commercial use.*
